@@ -5,8 +5,7 @@ public class Job
     public int _startYear;
     public int _endYear;
 
-    //Does it need this constructor like the one we saw in the first example from the reading?
-    public Job()
+      public Job()
     {
     }
 
